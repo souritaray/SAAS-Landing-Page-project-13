@@ -207,6 +207,9 @@ color:#f28a3f;
     align-items: center;
 }
 @media only screen and (max-width:580px){
+    html{
+overflow-x:hidden;
+}
     body{
         overflow-x: hidden;
     }
